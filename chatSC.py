@@ -53,9 +53,6 @@ with st.sidebar:
 
     # Link para o site da SC
     st.markdown("🔗 [StartCoding](https://scoding.vercel.app)")
-    
-    # Botão de link para enviar e-mail ao suporte da SC
-    st.link_button("✉️ E-mail Para o Suporte SC no Caso de Dúvidas", "mailto:suporte@scoding.vercel.app")
 
 # Título principal do app
 st.title("StartCoding - ChatSC")

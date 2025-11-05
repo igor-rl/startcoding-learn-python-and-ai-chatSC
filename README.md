@@ -64,15 +64,6 @@ No campo de Chat, experimente perguntas como:
 - **Qual a sintaxe de um loop em Python?**  
 - **Como uso a função `map` em Python? Me dê um exemplo com `lambda`.**
 
----
-
-## 🧹 Encerrando a sessão
-
-Se você criou um ambiente virtual, pode encerrá-lo a qualquer momento com:
-
-```bash
-deactivate
-```
 
 ---
 
