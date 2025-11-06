@@ -47,7 +47,7 @@ pip install -r requirements.txt
 ### 5️⃣ Execute o app Streamlit
 
 ```bash
-streamlit run sc_assistente.py
+streamlit run chatSC.py
 ```
 
 O aplicativo abrirá automaticamente no navegador.  
