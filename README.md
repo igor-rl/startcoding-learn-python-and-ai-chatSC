@@ -1,3 +1,5 @@
+![header-igor-projetos](https://github.com/igor-rl/assets/blob/main/img/github-projetcs-header.jpg)
+
 # 🧠 ChatSC — O ChatGPT da StartCoding
 
 O **ChatSC** é o assistente inteligente da **StartCoding**, desenvolvido em **Python** com **Streamlit**.  
